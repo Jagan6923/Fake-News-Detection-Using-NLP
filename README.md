@@ -15,7 +15,8 @@ How to Run the Program
      pip install -r requirements.txt
 
 4.Dependencies
-	1.pandas
+	
+        1.pandas
    
 	2.Re
  
