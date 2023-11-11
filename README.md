@@ -15,21 +15,15 @@ How to Run the Program
      pip install -r requirements.txt
 
 4.Dependencies
-	
-  1.pandas
-   
+	1.Pandas
 	2.Re
- 
 	3.Nltk
- 
 	4.scikit-learn
- 
 	5.matplotlib
- 
 	6.seaborn
 
 5. Run the Code:
-   - Execute the main program file, which appears to be named `fake_news_detection.py`:
+   - Execute the main program file, which appears to be named fake_news_detection.py:
      python fake_news_detection.py
     
 6. Download NLTK Stopwords (First Run):
@@ -45,7 +39,7 @@ How to Run the Program
    - A confusion matrix will be displayed in a heatmap.
 
 8. Adjusting Parameters (Optional):
-   - If you want to experiment with different parameters or algorithms, you can modify the code within `fake_news_detection.py`.
+   - If you want to experiment with different parameters or algorithms, you can modify the code within fake_news_detection.py.
    - Consider exploring other machine learning algorithms or adjusting hyperparameters for potential improvements.
 
 Note:
