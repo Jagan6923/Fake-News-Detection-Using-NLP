@@ -16,7 +16,7 @@ How to Run the Program
 
 4.Dependencies
 	
-1.pandas
+  1.pandas
    
 	2.Re
  
