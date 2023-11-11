@@ -1,4 +1,3 @@
-# Fake-News-Detection-Using-NLP
 References Kaggle Fake and Real News Dataset: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 How to Run the Program
 1. Clone the Repository:
@@ -15,7 +14,13 @@ How to Run the Program
    - Install the required dependencies using the following command:
      pip install -r requirements.txt
 
-4.Dependencies     pandas     re     nltk     scikit-learn     matplotlib     seaborn
+4.Dependencies
+•	Pandas
+•	 Re
+•	Nltk
+•	scikit-learn
+•	matplotlib
+•	seaborn
 
 5. Run the Code:
    - Execute the main program file, which appears to be named `fake_news_detection.py`:
