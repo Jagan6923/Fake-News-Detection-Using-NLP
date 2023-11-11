@@ -15,12 +15,12 @@ How to Run the Program
      pip install -r requirements.txt
 
 4.Dependencies
-•	Pandas
-•	 Re
-•	Nltk
-•	scikit-learn
-•	matplotlib
-•	seaborn
+•	-Pandas
+•	-Re
+•	-Nltk
+•	-scikit-learn
+•	-matplotlib
+•	-seaborn
 
 5. Run the Code:
    - Execute the main program file, which appears to be named `fake_news_detection.py`:
